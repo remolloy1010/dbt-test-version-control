@@ -1,12 +1,12 @@
 version: 2
 
 sources:
-  - name: test1
+  - name: test12
     description: A clone of a Postgres application database.
     database: non-existent-db
-    schema: test1
+    schema: test12
     tables:
-      - name: table1
+      - name: table12
         description: Raw customers data.
         columns:
           - name: id
